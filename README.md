@@ -1,4 +1,4 @@
-This project is a basic automation framework for web application testing built using:
+This project is a automation framework for web application testing built using:
 Java
 Selenium WebDriver
 TestNG
